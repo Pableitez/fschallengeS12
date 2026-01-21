@@ -89,7 +89,7 @@ WHERE check_in_date = 20180109;
 **Resultados relevantes:**
 
 * Joe Germuska
-* Jeremy Bowers ✅
+* Jeremy Bowers 
 * Annabel Miller
   (Otros miembros también estaban pero no son sospechosos según las pistas)
 
@@ -121,7 +121,7 @@ WHERE event_name = 'SQL Symphony Concert';
 Candidatos con 3 asistencias:
 
 * Bryan Pardo
-* Miranda Priestly ✅
+* Miranda Priestly 
 
 ```sql
 SELECT *
@@ -177,4 +177,3 @@ SELECT value FROM solution;
 * **Asesino:** Jeremy Bowers
 * **Verdadero villano:** Miranda Priestly
 
-Cada consulta SQL y cruce de datos nos permitió llegar a esta conclusión paso a paso.
