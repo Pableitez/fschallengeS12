@@ -136,7 +136,7 @@ INSERT INTO solution VALUES (1, 'Miranda Priestly');
 SELECT value FROM solution;
 ```
 
-**Conclusión:** Miranda Priestly es el verdadero villano.
+**Conclusión:** Miranda Priestly es la verdadera villana.
 
 ---
 
